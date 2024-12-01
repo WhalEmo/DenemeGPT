@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
     public void scoreP(View view){
         score++;
         scoreText.setText("Score: "+score);
-        int asd;
+        int ad = 34;
     }
 
     public void hideImages(){
