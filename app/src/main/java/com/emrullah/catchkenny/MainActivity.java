@@ -103,7 +103,7 @@ public class MainActivity extends AppCompatActivity {
         score++;
         scoreText.setText("Score: "+score);
         int ad = 34;
-        String emo = "emo";
+        String emo = "emoasda";
     }
 
     public void hideImages(){
