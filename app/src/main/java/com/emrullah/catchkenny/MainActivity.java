@@ -104,6 +104,7 @@ public class MainActivity extends AppCompatActivity {
         scoreText.setText("Score: "+score);
         int ad = 34;
         String emo = "emoasda";
+        String ds = "Ne dion gardas";
     }
 
     public void hideImages(){
